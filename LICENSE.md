@@ -1,4 +1,4 @@
-
+rare Plugin for Audacity for macOS - scene-transitions and version-history offers the most advanced Audacity for macOS plugin, with scene-transitions and version-history. Ideal
 
 
 
